@@ -47,7 +47,7 @@ h1{
 
 }
 #Py{
-    background-image: url("../My4.png");
+    background-image: url("My4.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -57,7 +57,7 @@ h1{
 
 }
 #C{
-    background-image: url("../My5.png");
+    background-image: url("My5.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -66,7 +66,7 @@ h1{
     background-repeat: no-repeat;
 }
 #DS{
-    background-image: url("../My6.png");
+    background-image: url("My6.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -74,7 +74,7 @@ h1{
     min-height: 60vh;
 }
 #HT{
-    background-image: url("../My7.png");
+    background-image: url("My7.png");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -154,7 +154,7 @@ h1{
     width: 50%;
     border-radius: 50px;
     margin: auto;
-    background-image: url(../My1.avif);
+    background-image: url(My1.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
